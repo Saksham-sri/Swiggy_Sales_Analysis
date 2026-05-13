@@ -1,5 +1,9 @@
 # Swiggy Restaurant & Customer Behavior Analysis using Python
 
+# Business Problem Statement
+- Analyze Swiggy restaurant data to identify customer preferences, pricing trends, top-performing cuisines, and restaurant performance insights.
+  ---
+
 ## Project Overview
 This project focuses on analyzing Swiggy restaurant sales data using Python.  
 The analysis includes data cleaning, exploratory data analysis (EDA), visualization, and extracting business insights from the dataset.
