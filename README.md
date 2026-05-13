@@ -1,4 +1,4 @@
-# Swiggy Sales Analysis using Python
+# Swiggy Restaurant & Customer Behavior Analysis using Python
 
 ## Project Overview
 This project focuses on analyzing Swiggy restaurant sales data using Python.  
